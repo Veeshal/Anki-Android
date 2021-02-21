@@ -99,7 +99,7 @@
     <string name="card_info_interval">Intervalo</string>
     <string name="card_info_ease">Facilidade</string>
     <string name="card_info_reviews" comment="Number of times a card was reviewed">Revisões</string>
-    <string name="card_info_lapses" comment="Label indicating the number of lapses of a card.">Erros</string>
+    <string name="card_info_lapses" comment="Label indicating the number of lapses of a card.">Falhas</string>
     <string name="card_info_average_time">Tempo Médio</string>
     <string name="card_info_total_time">Tempo Total</string>
     <string name="card_info_card_type">Tipo de Card</string>

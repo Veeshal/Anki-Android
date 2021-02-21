@@ -57,7 +57,7 @@
     <string name="study_more">Estudar mais</string>
     <plurals name="deckpicker_title">
         <item quantity="one">%1$d cartão programado (%2$s)</item>
-        <item quantity="other">%1$d cartões programados (%2$s)</item>
+        <item quantity="other">%1$d cards programados (%2$s)</item>
     </plurals>
     <plurals name="reviewer_window_title">
         <item quantity="one">%d minuto restante</item>
@@ -158,7 +158,7 @@
     <string name="invalid_deck_name">Nome do baralho inválido</string>
     <string name="studyoptions_empty">Este baralho está vazio. Pressione o botão + para adicionar novos conteúdos.</string>
     <string name="studyoptions_limit_reached">Limite diário de estudo atingido</string>
-    <string name="studyoptions_empty_schedule">Sem cartões programados para estudar</string>
+    <string name="studyoptions_empty_schedule">Sem cards programados para estudar</string>
     <string name="studyoptions_congrats_finished">Parabéns! Você terminou por enquanto.</string>
     <string name="studyoptions_congrats_more_rev">O limite de hoje foi atingido, mas ainda existem cartões para serem revistos. Você pode aumentar o limite nas opções.</string>
     <string name="studyoptions_congrats_more_new">O limite de hoje foi atingido. Ainda existem novos cartões; você pode aumentar o limite nas opções, mas isso irá aumentar a sua carga de revisões a curto prazo.</string>

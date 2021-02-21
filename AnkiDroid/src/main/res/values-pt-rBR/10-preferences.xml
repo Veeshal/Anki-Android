@@ -85,8 +85,8 @@
     <string name="full_screen_error_gestures">Você precisa habilitar os gestos para esconder os botões de resposta</string>
     <string name="answer_buttons_position">Posição dos botões de resposta</string>
     <string-array name="answer_buttons_position_labels">
-        <item>Topo</item>
-        <item>Final</item>
+        <item>Acima</item>
+        <item>Abaixo</item>
     </string-array>
     <string name="gestures">Habilitar gestos</string>
     <string name="gestures_summ">Atribuir gestos a ações tais como responder e editar cards.</string>
@@ -172,7 +172,7 @@
     <string name="learn_cutoff">Aprender antes do limite</string>
     <string name="time_limit">Limite de tempo de Timebox</string>
     <string name="time_limit_summ">XXX min</string>
-    <string name="new_timezone">New timezone handling</string>
+    <string name="new_timezone">Processando novo fuso horário</string>
     <string name="day_offset">Início do dia seguinte</string>
     <string name="day_offset_summ">XXX horas após a meia-noite</string>
     <string name="sched_ver">Agendador V2 Experimental</string>
@@ -223,7 +223,7 @@
     </plurals>
     <string name="deck_conf_new_cards">Novos cards</string>
     <string name="deck_conf_rev_cards" comment="Name of the deck options submenu for configuring reviews of due cards.">Revisões</string>
-    <string name="deck_conf_lps_cards" comment="Label of the submenu stating how lapses cards are treated.">Lapsos</string>
+    <string name="deck_conf_lps_cards" comment="Label of the submenu stating how lapses cards are treated.">Falhas</string>
     <string name="deck_conf_general">Geral</string>
     <string name="deck_conf_reminders">Lembretes</string>
     <string name="deck_conf_steps">Passos (em minutos)</string>
